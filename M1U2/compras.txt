@@ -4,3 +4,5 @@ Pan
 Ajo
 Tomates
 Papel
+Pan rallado
+Carne
